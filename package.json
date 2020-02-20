@@ -1,0 +1,22 @@
+{
+  "name": "follower-counts",
+  "version": "1.0.0",
+  "description": "A JavaScript library for getting follower counts on different social media",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vldmrkl/follower-counts.git"
+  },
+  "author": "Volodymyr Klymenko <volodymyr@vldmrkl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vldmrkl/follower-counts/issues"
+  },
+  "homepage": "https://github.com/vldmrkl/follower-counts#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
